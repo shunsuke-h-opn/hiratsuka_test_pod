@@ -1,0 +1,22 @@
+{
+  "name": "Hiratsuka_test_pod",
+  "version": "0.1.0",
+  "summary": "A short description of Hiratsuka_test_pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shunsuke/Hiratsuka_test_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shunsuke": "shunsuke.h@opn.ooo"
+  },
+  "source": {
+    "git": "https://github.com/shunsuke/Hiratsuka_test_pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Hiratsuka_test_pod/Classes/**/*"
+}
